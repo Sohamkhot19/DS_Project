@@ -1,0 +1,5 @@
+outs:
+- md5: bb17d450cbf4bd73f7e6087a758481fe
+  size: 2664910
+  hash: md5
+  path: Random_Forest_Tuned_model.pkl
