@@ -7,3 +7,13 @@ numpy>=1.26.0
 pytest
 flake8
 dvc
+streamlit
+shap
+matplotlib
+streamlit-shap
+plotly
+evidently
+streamlit==1.31.0
+streamlit-shap==1.0.2
+seaborn==0.13.1
+scipy==1.11.4
